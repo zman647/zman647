@@ -1,1 +1,1 @@
-My name is Collin Zielinski, I am a graduate of Southern New Hampshire University with a Bachelor of Science in Computer Science. This is a repository of projects while I was enrolled! 
+My name is Collin Zielinski, I am a graduate of Southern New Hampshire University with a Bachelor of Science in Computer Science. This is a repository of projects while I was enrolled! The two pinned projects involve a machine learning project using a q algorithm and one done to create a thermostat for a texas instruments board.
